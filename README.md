@@ -27,5 +27,5 @@ The project includes a custom CSS file (style.css) for additional styling, provi
 # Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
 # Author
-  HEMANIDHI VARSHENE TOLETI
-  GitHub: https://github.com/HemanidhiVarshene
+  * HEMANIDHI VARSHENE TOLETI
+  * GitHub: https://github.com/HemanidhiVarshene
