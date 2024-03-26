@@ -11,7 +11,7 @@ This project showcases a stylish and responsive product page with a focus on a f
 * Bootstrap 4.3.1: Front-end framework for styling and layout.
 # How to Use
 * Clone the repository:
-    *[a link] git clone https://github.com/HemanidhiVarshene/Product-Page.git
+    * [a link] git clone https://github.com/HemanidhiVarshene/Product-Page.git
 * Open the Product Page:
     * Open the index.html file in a web browser to view the product page.
     * Explore the featured product and recommended items.
